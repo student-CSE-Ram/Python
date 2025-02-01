@@ -1,0 +1,1 @@
+Hello Mr. this is a file that is opened with another file at a same time
