@@ -1,0 +1,4 @@
+hello this is a normal text file and we are going to read this file into another python file 
+this is a second line 
+hullo ct25
+boom boom
